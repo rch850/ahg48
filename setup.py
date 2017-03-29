@@ -12,7 +12,7 @@ setup(
     name='ahg48',
     description='AHG 48',
     long_description=long_description,
-    version='0.1.3',
+    version='0.1.4',
     url='https://github.com/rch850/ahg48',
     author='rch850',
     author_email='rich850@gmail.com',
